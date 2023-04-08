@@ -18,6 +18,3 @@ You can also customize the appearance and behavior of the components by passing 
 If you'd like to contribute to UI-Component-Gem, you can do so by submitting issues, bug reports, or feature requests on the GitHub repository. You can also contribute by submitting pull requests with improvements, bug fixes, or new components.
 
 Please make sure to follow the contribution guidelines and code of conduct when contributing to UI-Component-Gem.
-
-## License
-UI-Component-Gem is open-source software licensed under the MIT License. Feel free to use, modify, and distribute it for your own projects.cd 
